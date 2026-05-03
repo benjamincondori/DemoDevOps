@@ -1,0 +1,14 @@
+D:\dev\.net\DemoDevOps\bin\Debug\net10.0\DemoDevOps.exe
+D:\dev\.net\DemoDevOps\bin\Debug\net10.0\DemoDevOps.deps.json
+D:\dev\.net\DemoDevOps\bin\Debug\net10.0\DemoDevOps.runtimeconfig.json
+D:\dev\.net\DemoDevOps\bin\Debug\net10.0\DemoDevOps.dll
+D:\dev\.net\DemoDevOps\bin\Debug\net10.0\DemoDevOps.pdb
+D:\dev\.net\DemoDevOps\obj\Debug\net10.0\DemoDevOps.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\.net\DemoDevOps\obj\Debug\net10.0\DemoDevOps.AssemblyInfoInputs.cache
+D:\dev\.net\DemoDevOps\obj\Debug\net10.0\DemoDevOps.AssemblyInfo.cs
+D:\dev\.net\DemoDevOps\obj\Debug\net10.0\DemoDevOps.csproj.CoreCompileInputs.cache
+D:\dev\.net\DemoDevOps\obj\Debug\net10.0\DemoDevOps.dll
+D:\dev\.net\DemoDevOps\obj\Debug\net10.0\refint\DemoDevOps.dll
+D:\dev\.net\DemoDevOps\obj\Debug\net10.0\DemoDevOps.pdb
+D:\dev\.net\DemoDevOps\obj\Debug\net10.0\DemoDevOps.genruntimeconfig.cache
+D:\dev\.net\DemoDevOps\obj\Debug\net10.0\ref\DemoDevOps.dll
